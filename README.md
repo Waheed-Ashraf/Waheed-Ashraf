@@ -1,107 +1,144 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm <span style="background: linear-gradient(90deg, #4db8ff, #ff77b7); -webkit-background-clip: text; color: transparent;">Waheed Ashraf</span></h1>
-<h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
+<!-- ========================= -->
+<!--       PROFILE HEADER      -->
+<!-- ========================= -->
+
+<h1 align="center">
+  Hi 👋, I'm 
+  <span style="background: linear-gradient(90deg, #4db8ff, #ff77b7); -webkit-background-clip: text; color: transparent;">
+    Waheed Ashraf
+  </span>
+</h1>
+
+<h3 align="center">
+Flutter Developer • Clean Architecture • Scalable Mobile Apps
+</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=4DB8FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Welcome+to+my+GitHub+profile!;I+build+Flutter+apps+with+passion." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=4DB8FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+my+GitHub+profile!;Flutter+Developer+building+production-ready+apps;Clean+Architecture+•+BLoC+•+Firebase" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waheed-Ashraf&label=Profile%20views&color=4db8ff&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Waheed-Ashraf&label=Profile%20views&color=4db8ff&style=flat" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"/>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" height="100"/>
 </div>
 
 ---
 
-<!-- ============= -->
-<!--   About Me    -->
-<!-- ============= -->
+<!-- ========================= -->
+<!--          ABOUT ME         -->
+<!-- ========================= -->
 
 ## 👤 About Me
 
-- 💼 Flutter Developer (Remote) at **Emerald Egypt Facility Management**
-- 🏗️ Built **Craftscene**: a multi-language platform connecting construction stakeholders (ideas, suppliers, project management)
-- 🧠 Strong focus on **Clean Architecture**, scalable state management (**BLoC/Cubit**), and solid app performance
-- 🔥 Experienced with **Firebase**, **REST APIs**, and shipping apps to stores
-- 🤝 Open to collaboration on Flutter open-source projects
+I’m a **Flutter Developer** with hands-on experience building **scalable, production-ready mobile applications** used in real business environments.
 
-**Reach me:** 📩 **washraf124@gmail.com**
+- 💼 Currently working remotely at **Emerald Egypt Facility Management**
+- 🏗️ Creator of **Craftscene**, a multi-language platform connecting construction stakeholders (ideas, suppliers, project workflows)
+- 🧱 Strong advocate of **Clean Architecture** and maintainable codebases
+- 🔁 Experienced with **BLoC / Cubit**, **REST APIs**, and **Firebase**
+- 🚀 Delivered apps prepared for **App Store & Google Play**
+- 🤝 Open to collaborating on impactful Flutter & open-source projects
 
-<!-- TECH STACK (badges + icons row like the foreign design) -->
+📩 **Reach me:** `washraf124@gmail.com`
+
+---
+
+<!-- ========================= -->
+<!--        CURRENT FOCUS      -->
+<!-- ========================= -->
+
+## 🎯 Current Focus
+
+- Improving Flutter app performance & scalability  
+- Writing testable, maintainable architectures  
+- Exploring AI-powered mobile features  
+
+---
+
+<!-- ========================= -->
+<!--          TECH STACK       -->
+<!-- ========================= -->
+
 ## 🌟 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/BLoC-00599C?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<!-- Optional icon row for visual flair (borrowed from foreign style) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,postman" />
 </p>
 
 ---
 
-<!-- SOCIAL LINKS (clean line + icons) -->
+<!-- ========================= -->
+<!--        CONNECT WITH ME    -->
+<!-- ========================= -->
+
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:washraf124@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30"/>
+  <a href="mailto:washraf124@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/waheed-ashraf-18a197214/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
-
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="30"/>
+  </a>
 </p>
 
 ---
 
-<!-- STATS SECTION (balanced layout like the foreign design) -->
+<!-- ========================= -->
+<!--     GITHUB STATS & ACTIVITY -->
+<!-- ========================= -->
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight" width="33%"/>
 </p>
 
-<!-- Summary cards & activity graph borrowed tastefully -->
 <div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waheed-Ashraf&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waheed-Ashraf&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Waheed-Ashraf&theme=github_dark&utcOffset=+3" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waheed-Ashraf&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waheed-Ashraf&theme=github_dark" />
-
-
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-Ashraf&bg_color=0d1117&color=ffffff&line=4db8ff&point=fff7e0&area=true&hide_border=true" alt="activity graph"/>
-</a>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waheed-Ashraf&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waheed-Ashraf&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Waheed-Ashraf&theme=github_dark&utcOffset=+3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waheed-Ashraf&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waheed-Ashraf&theme=github_dark" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-Ashraf&bg_color=0d1117&color=ffffff&line=4db8ff&point=fff7e0&area=true&hide_border=true"/>
+</p>
 
+---
 
-
-<hr/>
+<!-- ========================= -->
+<!--        FEATURED WORK      -->
+<!-- ========================= -->
 
 ## 🧩 Featured Work
 
-- 🏗️ **Craftscene** — Multi-language platform for construction stakeholders  
+- 🏗️ **Craftscene**  
+  Multi-language platform for construction stakeholders  
   _Flutter • BLoC • Firebase • REST • Clean Architecture_
-- 🤖 **Form Engine** — AI + Speech-to-text to convert unstructured data into editable JSON  
+
+- 🤖 **Form Engine**  
+  AI-powered form processing with speech-to-text and structured JSON output  
   _Flutter • AI • Cross-platform_
-- 🧭 **HREngine** — Attendance tracking with GPS + facial recognition  
-  _Flutter • Mobile features_
 
-> Note: Some of my best work is in private repos. Public projects reflect what I can share and maintain openly.
+- 🧭 **HREngine**  
+  Attendance tracking using GPS and facial recognition  
+  _Flutter • Mobile integrations_
 
+> **Note:** Some of my strongest work lives in private repositories. Public projects reflect what I can share while maintaining quality and consistency.
