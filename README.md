@@ -18,30 +18,19 @@
 
 ---
 
-<!-- ABOUT ME -->
-## 👀 About Me
+<!-- ============= -->
+<!--   About Me    -->
+<!-- ============= -->
 
-- 👷‍♂️ I’m currently working on **cool and scalable Flutter apps**
-- 🎓 Learning more about **Clean Architecture, Firebase, and state management**
-- ✨ Open to collaborate on **Flutter open-source projects**
-- 📍 From **New Cairo, Egypt**
-- 🙌 My goal: **Build impactful cross-platform apps**
-- 📧 Reach me: **washraf124@gmail.com**
-- 🔗 <a href="https://www.linkedin.com/in/omarshawkey/">LinkedIn</a>
+## 👤 About Me
 
-> <em>Note:</em> Some of my best work lives in private repos. Public projects reflect what I can share while helping others.
+- 💼 Flutter Developer (Remote) at **Emerald Egypt Facility Management**
+- 🏗️ Built **Craftscene**: a multi-language platform connecting construction stakeholders (ideas, suppliers, project management)
+- 🧠 Strong focus on **Clean Architecture**, scalable state management (**BLoC/Cubit**), and solid app performance
+- 🔥 Experienced with **Firebase**, **REST APIs**, and shipping apps to stores
+- 🤝 Open to collaboration on Flutter open-source projects
 
----
-
-<!-- CURRENTLY LEARNING -->
-## 🧠 Currently Learning
-
-- Clean Architecture for Flutter  
-- Bloc & Riverpod  
-- Firebase Cloud Functions  
-- Flutter Web Optimization  
-
----
+**Reach me:** 📩 **washraf124@gmail.com**
 
 <!-- TECH STACK (badges + icons row like the foreign design) -->
 ## 🌟 Tech Stack
