@@ -69,9 +69,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Ashraf&show_icons=true&theme=tokyonight" width="33%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Waheed-Ashraf&layout=compact&theme=tokyonight" width="30%"/>
 </p>
 
 <!-- Summary cards & activity graph borrowed tastefully -->
@@ -83,9 +81,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waheed-Ashraf&theme=github_dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waheed-Ashraf&theme=github_dark" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Waheed-Ashraf&theme=tokyonight&row=1&no-bg=true&margin-w=20" />
-</p>
+
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-Ashraf&bg_color=0d1117&color=ffffff&line=4db8ff&point=fff7e0&area=true&hide_border=true" alt="activity graph"/>
