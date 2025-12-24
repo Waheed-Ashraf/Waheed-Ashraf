@@ -6,8 +6,8 @@
 <h3 align="center">Flutter Developer | Clean Architecture | BLoC | Firebase</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Waheed-Ashraf">
+    <img src="https://komarev.com/ghpvc/?username=Waheed-Ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@
   <a href="mailto:washraf124@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Waheed-Ashraf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -98,16 +98,16 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Ashraf&show_icons=true&hide_title=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed-Ashraf&layout=compact" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Waheed-Ashraf" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-Ashraf" />
 </p>
 
 <hr/>
