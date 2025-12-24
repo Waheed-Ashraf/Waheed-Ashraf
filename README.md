@@ -58,13 +58,9 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omarshawkey/" target="_blank">
+  <a href="https://www.linkedin.com/in/waheed-ashraf-18a197214/" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/7804702/omar-mohamed" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="30" width="30"/>
-  </a>
+
 </p>
 
 ---
