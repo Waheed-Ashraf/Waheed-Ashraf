@@ -108,25 +108,7 @@
 
 </div>
 
----
 
-<!-- RECENT ACTIVITY (manual or via action) -->
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- If you activate the activity workflow, it will auto-populate here -->
-<!--END_SECTION:activity-->
-
----
-
-<!-- OPTIONAL: BLOG/ARTICLES placeholder (omit if none) -->
-<!--
-### :memo: Latest Articles
-- [Title](#)
-- [Title](#)
--->
-
----
 
 
 <hr/>
