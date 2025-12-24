@@ -128,23 +128,17 @@
 
 ---
 
-<!-- QUOTE / CTA -->
-<h2 align="center">💬 Quote I live by</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Be+the+best+version+of+yourself." alt="Quote by Waheed Ashraf" />
-</p>
+<hr/>
 
-<p align="center"><b>— Waheed Ashraf —</b></p>
+## 🧩 Featured Work
 
----
+- 🏗️ **Craftscene** — Multi-language platform for construction stakeholders  
+  _Flutter • BLoC • Firebase • REST • Clean Architecture_
+- 🤖 **Form Engine** — AI + Speech-to-text to convert unstructured data into editable JSON  
+  _Flutter • AI • Cross-platform_
+- 🧭 **HREngine** — Attendance tracking with GPS + facial recognition  
+  _Flutter • Mobile features_
 
-<!-- FOOTER NOTE: compact callout like the foreign design -->
-<p align="center">
-  <a href="https://github.com/Waheed-Ashraf?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
-
-<p align="center"><i>Want collaboration or high‑quality Flutter code? Reach out via email or LinkedIn.</i></p>
+> Note: Some of my best work is in private repos. Public projects reflect what I can share and maintain openly.
 
