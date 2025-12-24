@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm <span style="background: linear-gradient(90deg, #4db8ff, #ff77b7); -webkit-background-clip: text; color: transparent;">Omar Shawkey</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="background: linear-gradient(90deg, #4db8ff, #ff77b7); -webkit-background-clip: text; color: transparent;">Waheed Ashraf</span></h1>
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
@@ -132,10 +132,10 @@
 <h2 align="center">💬 Quote I live by</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Be+the+best+version+of+yourself." alt="Quote by Omar Shawkey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Be+the+best+version+of+yourself." alt="Quote by Waheed Ashraf" />
 </p>
 
-<p align="center"><b>— Omar Shawkey —</b></p>
+<p align="center"><b>— Waheed Ashraf —</b></p>
 
 ---
 
