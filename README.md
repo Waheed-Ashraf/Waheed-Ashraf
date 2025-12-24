@@ -1,124 +1,150 @@
-<!-- ========================= -->
-<!--  Greeting / Hero Section  -->
-<!-- ========================= -->
-
-<h1 align="center">Hi 👋, I'm Waheed Ashraf</h1>
-<h3 align="center">Flutter Developer | Clean Architecture | BLoC | Firebase</h3>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="background: linear-gradient(90deg, #4db8ff, #ff77b7); -webkit-background-clip: text; color: transparent;">Omar Shawkey</span></h1>
+<h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <a href="https://github.com/Waheed-Ashraf">
-    <img src="https://komarev.com/ghpvc/?username=Waheed-Ashraf&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=4DB8FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Welcome+to+my+GitHub+profile!;I+build+Flutter+apps+with+passion." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>📍 Cairo, Egypt</b> • <b>📱 Cross-platform Mobile Apps</b> • <b>🚀 App Store / Google Play / Microsoft Store</b>
+  <img src="https://komarev.com/ghpvc/?username=Waheed-Ashraf&label=Profile%20views&color=4db8ff&style=flat" alt="Profile Views" />
 </p>
 
-<hr/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"/>
+</div>
 
-<!-- ============= -->
-<!--   About Me    -->
-<!-- ============= -->
+---
 
-## 👤 About Me
+<!-- ABOUT ME -->
+## 👀 About Me
 
-- 💼 Flutter Developer (Remote) at **Emerald Egypt Facility Management**
-- 🏗️ Built **Craftscene**: a multi-language platform connecting construction stakeholders (ideas, suppliers, project management)
-- 🧠 Strong focus on **Clean Architecture**, scalable state management (**BLoC/Cubit**), and solid app performance
-- 🔥 Experienced with **Firebase**, **REST APIs**, and shipping apps to stores
-- 🤝 Open to collaboration on Flutter open-source projects
+- 👷‍♂️ I’m currently working on **cool and scalable Flutter apps**
+- 🎓 Learning more about **Clean Architecture, Firebase, and state management**
+- ✨ Open to collaborate on **Flutter open-source projects**
+- 📍 From **New Cairo, Egypt**
+- 🙌 My goal: **Build impactful cross-platform apps**
+- 📧 Reach me: **omar.mohamed.flutter@gmail.com**
+- 🔗 <a href="https://www.linkedin.com/in/omarshawkey/">LinkedIn</a>
 
-**Reach me:** 📩 **washraf124@gmail.com**
+> <em>Note:</em> Some of my best work lives in private repos. Public projects reflect what I can share while helping others.
 
-<hr/>
+---
 
-<!-- ============= -->
-<!--  Tech Stack   -->
-<!-- ============= -->
+<!-- CURRENTLY LEARNING -->
+## 🧠 Currently Learning
 
-## 🧰 Tech Stack
+- Clean Architecture for Flutter  
+- Bloc & Riverpod  
+- Firebase Cloud Functions  
+- Flutter Web Optimization  
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+---
 
-### State Management
-![Bloc](https://img.shields.io/badge/BLoC%20%2F%20Cubit-000?style=for-the-badge&logo=flutter)
-![GetX](https://img.shields.io/badge/GetX-000?style=for-the-badge&logo=flutter)
-![Provider](https://img.shields.io/badge/Provider-000?style=for-the-badge&logo=flutter)
+<!-- TECH STACK (badges + icons row like the foreign design) -->
+## 🌟 Tech Stack
 
-### Architecture & Tooling
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-000?style=for-the-badge)
-![get_it](https://img.shields.io/badge/get__it%20(DI)-000?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-### Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![REST API](https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge)
+<!-- Optional icon row for visual flair (borrowed from foreign style) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,figma,postman" />
+</p>
 
-### CI/CD & Version Control
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
-![Fastlane](https://img.shields.io/badge/Fastlane-000?style=for-the-badge&logo=fastlane)
+---
 
-### AI / Advanced Features
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-000?style=for-the-badge&logo=google)
-![Text Recognition](https://img.shields.io/badge/Text%20Recognition-000?style=for-the-badge)
-![Voice Recognition](https://img.shields.io/badge/Voice%20Recognition-000?style=for-the-badge)
+<!-- SOCIAL LINKS (clean line + icons) -->
+## 🔗 Connect with Me
 
-<hr/>
-
-<!-- ================= -->
-<!--  Connect With Me  -->
-<!-- ================= -->
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <!-- Replace links -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+<p align="center">
+  <a href="mailto:omar.mohamed.flutter@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30"/>
   </a>
-  <a href="mailto:washraf124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omarshawkey/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/>
   </a>
-  <a href="https://github.com/Waheed-Ashraf" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/7804702/omar-mohamed" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" height="30" width="30"/>
   </a>
 </p>
 
-<hr/>
+---
 
-<!-- ========================= -->
-<!--  GitHub Stats & Activity  -->
-<!-- ========================= -->
-
+<!-- STATS SECTION (balanced layout like the foreign design) -->
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Ashraf&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed-Ashraf&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Ashraf&show_icons=true&theme=tokyonight" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Waheed-Ashraf&layout=compact&theme=tokyonight" width="30%"/>
 </p>
+
+<!-- Summary cards & activity graph borrowed tastefully -->
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waheed-Ashraf&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waheed-Ashraf&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Waheed-Ashraf&theme=github_dark&utcOffset=+3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waheed-Ashraf&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waheed-Ashraf&theme=github_dark" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Waheed-Ashraf" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Waheed-Ashraf&theme=tokyonight&row=1&no-bg=true&margin-w=20" />
 </p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-Ashraf&bg_color=0d1117&color=ffffff&line=4db8ff&point=fff7e0&area=true&hide_border=true" alt="activity graph"/>
+</a>
+
+</div>
+
+---
+
+<!-- RECENT ACTIVITY (manual or via action) -->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- If you activate the activity workflow, it will auto-populate here -->
+<!--END_SECTION:activity-->
+
+---
+
+<!-- OPTIONAL: BLOG/ARTICLES placeholder (omit if none) -->
+<!--
+### :memo: Latest Articles
+- [Title](#)
+- [Title](#)
+-->
+
+---
+
+<!-- QUOTE / CTA -->
+<h2 align="center">💬 Quote I live by</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-Ashraf" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Be+the+best+version+of+yourself." alt="Quote by Omar Shawkey" />
 </p>
 
-<hr/>
+<p align="center"><b>— Omar Shawkey —</b></p>
 
-## 🧩 Featured Work
+---
 
-- 🏗️ **Craftscene** — Multi-language platform for construction stakeholders  
-  _Flutter • BLoC • Firebase • REST • Clean Architecture_
-- 🤖 **Form Engine** — AI + Speech-to-text to convert unstructured data into editable JSON  
-  _Flutter • AI • Cross-platform_
-- 🧭 **HREngine** — Attendance tracking with GPS + facial recognition  
-  _Flutter • Mobile features_
+<!-- FOOTER NOTE: compact callout like the foreign design -->
+<p align="center">
+  <a href="https://github.com/Waheed-Ashraf?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
 
-> Note: Some of my best work is in private repos. Public projects reflect what I can share and maintain openly.
+<p align="center"><i>Want collaboration or high‑quality Flutter code? Reach out via email or LinkedIn.</i></p>
+
