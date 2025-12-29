@@ -112,8 +112,7 @@ I’m a **Flutter Developer** with hands-on experience building **scalable, prod
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waheed-Ashraf&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Waheed-Ashraf&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Waheed-Ashraf&theme=github_dark&utcOffset=+3" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waheed-Ashraf&theme=github_dark" />
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Waheed-Ashraf&theme=github_dark" />
 </div>
 
@@ -123,22 +122,4 @@ I’m a **Flutter Developer** with hands-on experience building **scalable, prod
 
 ---
 
-<!-- ========================= -->
-<!--        FEATURED WORK      -->
-<!-- ========================= -->
 
-## 🧩 Featured Work
-
-- 🏗️ **Craftscene**  
-  Multi-language platform for construction stakeholders  
-  _Flutter • BLoC • Firebase • REST • Clean Architecture_
-
-- 🤖 **Form Engine**  
-  AI-powered form processing with speech-to-text and structured JSON output  
-  _Flutter • AI • Cross-platform_
-
-- 🧭 **HREngine**  
-  Attendance tracking using GPS and facial recognition  
-  _Flutter • Mobile integrations_
-
-> **Note:** Some of my strongest work lives in private repositories. Public projects reflect what I can share while maintaining quality and consistency.
