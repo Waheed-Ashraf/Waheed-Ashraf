@@ -105,9 +105,7 @@ I’m a **Flutter Developer** with hands-on experience building **scalable, prod
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight" width="33%"/>
-</p>
+
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waheed-Ashraf&theme=github_dark" />
