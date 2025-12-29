@@ -105,10 +105,12 @@ I’m a **Flutter Developer** with hands-on experience building **scalable, prod
 
 ## 📊 GitHub Stats & Activity
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight"/>
+</p>
 
 <div align="center">
-    <img src="  https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Ashraf&theme=tokyonight" />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waheed-Ashraf&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Waheed-Ashraf&theme=github_dark" />
